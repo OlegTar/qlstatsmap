@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "2bcf20c06ec0201360d47ac8805513caa7f7048d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Qlstats/1.0.0": {
+        "dependencies": {
+          "CsQuery": "1.3.4"
+        },
+        "runtime": {
+          "Qlstats.dll": {}
+        }
+      },
+      "CsQuery/1.3.4": {
+        "runtime": {
+          "lib/net40/CsQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qlstats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsQuery/1.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JQUAwMrxt4Wg5GVxT7kKNYQTi0+gvN+DdQ60C2ZVegzvftrOpJgVobazZn+/OcReiNLIGwJhMFSn0FskgqbOUQ==",
+      "path": "csquery/1.3.4",
+      "hashPath": "csquery.1.3.4.nupkg.sha512"
+    }
+  }
+}

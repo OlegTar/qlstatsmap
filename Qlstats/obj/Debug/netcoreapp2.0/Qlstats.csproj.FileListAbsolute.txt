@@ -1,0 +1,11 @@
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\bin\Debug\netcoreapp2.0\Qlstats.deps.json
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\bin\Debug\netcoreapp2.0\Qlstats.runtimeconfig.json
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\bin\Debug\netcoreapp2.0\Qlstats.runtimeconfig.dev.json
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\bin\Debug\netcoreapp2.0\Qlstats.dll
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\bin\Debug\netcoreapp2.0\Qlstats.pdb
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.csprojResolveAssemblyReference.cache
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.csproj.CoreCompileInputs.cache
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.AssemblyInfoInputs.cache
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.AssemblyInfo.cs
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.dll
+c:\users\oleg_tarusov\source\repos\Qlstats\Qlstats\obj\Debug\netcoreapp2.0\Qlstats.pdb
